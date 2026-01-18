@@ -20,7 +20,7 @@ Open-sourced DSP toolkit offering pre-trained modulation classification models f
 - Pretrained checkpoints + docs for quick experimentation
 
 **Stack:** Python • PyTorch Lightning • Signal Processing  
-**Code:** https://github.com/IsaiahHarvi/sigkit
+**Code:** https://github.com/isaiah-harville/sigkit
 
 ### ORION — 1st Place hackathon winner + real-time analytics
 1st Place Winner hackathon project and real-time analytics tool.
@@ -29,7 +29,7 @@ Open-sourced DSP toolkit offering pre-trained modulation classification models f
 - Interactive dashboards in TypeScript, deployed to Kubernetes
 
 **Stack:** Python • TypeScript • PostgreSQL • FastAPI • Kubernetes  
-**Code:** https://github.com/IsaiahHarvi/ORION
+**Code:** https://github.com/isaiah-harville/ORION
 
 ### Homelab — Personal Kubernetes cluster powering services
 Personal Kubernetes cluster config powering services, including this site.
