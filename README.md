@@ -31,7 +31,7 @@ Open-sourced DSP toolkit offering pre-trained modulation classification models f
 **Stack:** Python • TypeScript • PostgreSQL • FastAPI • Kubernetes  
 **Code:** https://github.com/IsaiahHarvi/ORION
 
-### Homelab — Personal Kubernetes cluster powering services (incl. this site)
+### Homelab — Personal Kubernetes cluster powering services
 Personal Kubernetes cluster config powering services, including this site.
 
 - GitOps workflow with Flux and Talos for declarative, repeatable infra
