@@ -11,36 +11,6 @@ _M.S. Computer Science, Machine Learning ('27)_ • _B.S. Computer Science_
 
 ---
 
-## Selected work
-
-### SigKit — Open-source DSP + pretrained modulation classification
-Open-sourced DSP toolkit offering pre-trained modulation classification models for Python.
-
-- Reusable PyTorch transforms, datasets, and a full training pipeline
-- Pretrained checkpoints + docs for quick experimentation
-
-**Stack:** Python • PyTorch Lightning • Signal Processing  
-**Code:** https://github.com/isaiah-harville/sigkit
-
-### ORION — 1st Place hackathon winner + real-time analytics
-1st Place Winner hackathon project and real-time analytics tool.
-
-- Live telemetry ingestion (Python/FastAPI + PostgreSQL)
-- Interactive dashboards in TypeScript, deployed to Kubernetes
-
-**Stack:** Python • TypeScript • PostgreSQL • FastAPI • Kubernetes  
-**Code:** https://github.com/isaiah-harville/ORION
-
-### Homelab — Personal Kubernetes cluster powering services
-Personal Kubernetes cluster config powering services, including this site.
-
-- GitOps workflow with Flux and Talos for declarative, repeatable infra
-- Automated deployments across monitoring, networking, and media services
-
-**Stack:** Kubernetes • Docker • Flux • GitOps • Talos  
-**Code:** https://github.com/isaiah-harville/homelab
-
----
 ## Frameworks & platforms
 
 **Deployment:** Kubernetes • Docker • Flux • Talos • Linux • Supabase
