@@ -11,16 +11,6 @@ _M.S. Computer Science, Machine Learning ('27)_ • _B.S. Computer Science_
 
 ---
 
-## Frameworks & platforms
-
-**Deployment:** Kubernetes • Docker • Flux • Talos • Linux • Supabase
-
-**SWE:** Python • Rust • C++ • REST APIs • gRPC • PostgreSQL • SQL • CI/CD  
-
-**AI/ML:** PyTorch • PyTorch Lightning • Computer Vision • Reinforcement Learning • Adversarial ML • Kubeflow • MLflow • Weights & Biases
-
----
-
 <div align="center">
 
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
