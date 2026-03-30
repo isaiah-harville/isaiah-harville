@@ -4,8 +4,6 @@
 
 _M.S. Computer Science, Machine Learning ('27)_ • _B.S. Computer Science_
 
-# [![LinkedIn](https://img.shields.io/badge/LinkedIn-isaiahharville-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaiahharville/)
-
 </div>
 
 ---
