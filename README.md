@@ -25,4 +25,7 @@ _M.S. Computer Science, Machine Learning ('27)_ • _B.S. Computer Science_
 
 </div>
 
+More work under [Harville Labs, LLC](https://github.com/Harville-Labs).
+
+
 <sub>Note: Personal account; does not reflect corporate/private GitLab activity.</sub>
